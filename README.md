@@ -10,5 +10,7 @@ streamlit run app.py
 
 ### 效果展示
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/6fcf875b-0afd-4738-89cb-c385d9fc37de)
+
+
 
